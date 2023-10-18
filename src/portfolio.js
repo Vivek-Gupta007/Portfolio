@@ -9,7 +9,7 @@ const greeting = {
   full_name: "Vivek Gupta",
   subTitle: "ReactJs Developer. Always learning,",
   resumeLink:
-    "https://drive.google.com/file/d/1JP_Lp6hAvUrh_ZEF0hk8OvdJta5Wrrbm/view?usp=sharing",
+    "https://drive.google.com/file/d/1MLJ3xSjjcOKGc3P7EvPnrncUQ8QXA5cl/view?usp=sharing",
   mail: "mailto:vivek.0987@gmail.com",
 };
 
@@ -21,7 +21,7 @@ const socialMediaLinks = {
   gitlab: " ",
   facebook: "https://www.facebook.com/profile.php?id=100009991697166",
   twitter: " ",
-  instagram: "https://www.instagram.com/charming_gupta/"
+  instagram: "https://www.instagram.com/charming_gupta/",
 };
 
 const skills = {
@@ -129,7 +129,8 @@ const degrees = {
         "⚡ 56.15%",
         "⚡ Completing my 12th class from the science maths stream has been a significant milestone in my academic journey. Through this phase, I delved into subjects such as physics, chemistry, mathematics, and computer science, gaining a comprehensive understanding of their principles and applications. From exploring laws of motion to solving complex mathematical equations and programming algorithms, I embraced the challenges with enthusiasm. The curriculum included calculus, algebra, mechanics, thermodynamics, organic chemistry, and programming languages. Engaging in experiments, science fairs, and collaborative projects enriched my learning experience and fostered teamwork. Completing my 12th class in the science maths stream has provided me with a strong academic foundation and a passion for scientific inquiry.",
       ],
-      website_link: "https://schools.org.in/panch-mahals/24170303513/v-m-shah-english-medium-school.html",
+      website_link:
+        "https://schools.org.in/panch-mahals/24170303513/v-m-shah-english-medium-school.html",
     },
     {
       title: "Veer New Look Central School, Halol",
@@ -141,7 +142,8 @@ const degrees = {
         "⚡ 72.2%",
         "⚡During my 10th class, I excelled academically, maintaining a high Percentage and receiving recognition for my outstanding performance. I completed a range of relevant coursework, including mathematics, science, social studies, and languages. The subjects covered algebra, geometry, physics, chemistry, biology, history, geography, and English. I actively participated in discussions, collaborated with peers, and dedicated time to self-study. My dedication allowed me to excel and build a strong foundation for future academic pursuits.",
       ],
-      website_link: "https://newlookschool.com/veer-new-look-central-school-halol/",
+      website_link:
+        "https://newlookschool.com/veer-new-look-central-school-halol/",
     },
   ],
 };
@@ -158,8 +160,7 @@ const certifications = {
       color_code: "rgb(227, 64, 95)",
     },
     {
-      title:
-        "BTech",
+      title: "BTech",
       subtitle: "On the way",
       logo_path: "itmbu.jpg",
       // certificate_link:
@@ -182,25 +183,26 @@ const certifications = {
 // Experience Page
 const experience = {
   title: "Experience",
-  subtitle: "Traniee, Internship",
+  subtitle: "Fulltimer, Internship",
   description:
-    "I've completed one internship and wokred as a trainee also. I've mostly done 2+ projects during the training probation periodand I am actively looking for new job opportunity.",
+    "I've completed one internship and wokred as a fulltimer also. I've mostly done 2+ projects during the fulltimer and training probation periodand I am actively looking for new job opportunity.",
   header_image_path: "experience.svg",
   sections: [
     {
-      title: "Worked As a Trainee",
+      title: "Worked As a React Developer",
       experiences: [
         {
           title: "ReactJs Developer",
           company: "Matlab Infotech",
           company_url: " ",
           logo_path: "coding.png",
-          duration: "September 2022 - April 2023",
+          duration: "October 2022 - July 2023",
           location: "Vadodara, Gujarat",
           description:
-            "Worked as a Trainee Software Developer, Maintained good working relationship with coworkers and management, Collaborated with the development team to implement smaller functionality and resolve bugs, ensuring smooth operation and enhancing the overall user experience, Completed assigned tasks with little or no supervision and Worked on Two Live Projects: 1. NistulaLife 2. Chefs-a-porter. More details regards this is mentioned in resume.",
+            "Worked as a React JS Developer, Maintained good working relationship with coworkers and management, Collaborated with the development team to implement smaller functionality and resolve bugs, ensuring smooth operation and enhancing the overall user experience, Completed assigned tasks with little or no supervision and Worked on Two Live Projects: 1. NistulaLife 2. Chefs-a-porter. More details regards this is mentioned in resume.",
           color: "#f10000",
-          letter: "https://drive.google.com/file/d/1yHtr1sdj6mRbM3dzAfxXSs7IE-0Hc136/view?usp=sharing"
+          letter:
+            "https://drive.google.com/file/d/10qN6DdxB6monhpdirjwJ6tTN3lQ_IH-Q/view?usp=sharing",
         },
       ],
     },
